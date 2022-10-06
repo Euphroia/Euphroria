@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Euphroria
+- 👋 Hi, I’m @Euphoria
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on nothing
